@@ -7,6 +7,7 @@
 - Talhah Patelia
 - GyaaniGuy
 - Adam Pawtel
+- I'm new tqlloki
 - [reddtoric](https://github.com/reddtoric)
 - Olivier Sonrel
 - Larry San Nicolas
